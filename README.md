@@ -8,6 +8,7 @@
 </p>
 <a href="https://discord.gg/qHSq4EQuAk"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"?link=https://discord.gg/qHSq4EQuAk&link=https://discord.gg/qHSq4EQuAk> </p></a>
 <p align="center"> Any logos/promotional artwork made for/used by <b>Bismuth</b> </p>
+
 # Branding Guidelines
 
 The following section will describe the guidelines we ask to be enforced when designing media for or about BismuthMC. You are under no legal obligation to follow these rules, but following them will result in a cleaner, more consistent look, in line with what we are making for official media.
