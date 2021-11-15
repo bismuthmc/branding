@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://bismuth.rocks">
-    <img src="https://github.com/bismuthmc/bismuthmc.github.io/blob/main/images/icon.png?raw=true" alt="Logo" width="150" height="150">
+    <img src="https://github.com/bismuthmc/branding/blob/main/logos/bismuth%20on%20white%20bg%20shadow%20rounded.png?raw=true" alt="Logo" width="150" height="150">
   </a>
 </p>
 <p align="center"> 
@@ -42,3 +42,5 @@ Credits:
 
 
 ```TO BE COMPLETED!```
+
+
